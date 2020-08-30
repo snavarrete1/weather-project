@@ -1,0 +1,15 @@
+body {
+    background-image: url('../css/images/w3.gif');
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: center;
+    
+    
+}
+
+.card{
+    background: linear-gradient(135deg, #d31f8a 0%, #fda000 100%);
+}
+
+
+
